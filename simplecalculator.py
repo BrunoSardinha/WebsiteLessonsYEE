@@ -17,3 +17,5 @@ elif operation == "/":
 
 else:
     print("INVALID. SHUTING. DOWN. :( :( :( :( :(.             LOG OUT AND RESTART.:(        ")
+
+#É Muito Bom, YEET!
