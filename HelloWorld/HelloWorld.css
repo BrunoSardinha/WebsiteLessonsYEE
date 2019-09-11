@@ -39,3 +39,8 @@ li a{
 li a:hover{
     background-color: rgba(231,213,142,0.5);
 }
+
+.list_item {
+    font-weight: bold;
+    font-style: italic;
+}
